@@ -20,10 +20,10 @@ authors = ["Bitwise IO, Inc.", "Intel Corporation"]
 build = "build.rs"
 license = "Apache-2.0"
 description = """\
-    Hyperledger Sawtooth is an enterprise blockchain platform for building \
+    Sawtooth is an enterprise blockchain platform for building \
     distributed ledger applications and networks.
 """
-repository = "https://github.com/hyperledger/sawtooth-sdk-rust"
+repository = "https://github.com/splintercommunity/sawtooth-sdk-rust"
 edition = "2018"
 
 [features]
